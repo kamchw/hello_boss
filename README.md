@@ -1,2 +1,2 @@
 # hello_boss
-small changes
+small changes can destroy everything
